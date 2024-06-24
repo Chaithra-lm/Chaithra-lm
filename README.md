@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaithra-lm
 - 👀 I’m interested in programming python, AI, ML ,Data science.
-- 🌱 I’m currently learning Programming in R
+- 🌱 I’m currently working on LLM, NLP, Generative AI.
 - 💞️ I’m looking to collaborate with many new developers so that even i can learn new things from them
 - 📫 How to reach me @Chaithra-lm
 
